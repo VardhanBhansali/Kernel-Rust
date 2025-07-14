@@ -1,11 +1,11 @@
 [package]
 name = "catos"
-description = "CATOS: A Simple OS in Rust"
+description = "A Simple OS in Rust"
 version = "0.10.3"
-authors = ["Neeraj Godiyal <neerajgodiyal250@gmail.com>"]
+authors = ["Vardhan Bhansali <vardhanbhansali7@gmail.com>"]
 edition = "2018"
 license = "MIT"
-repository = "https://github.com/NeerajGodiyal/catos"
+repository = "https://github.com/VardhanBhansali/Kernel-Rust"
 readme = "README.md"
 default-run = "catos"
 
